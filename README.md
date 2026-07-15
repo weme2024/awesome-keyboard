@@ -91,3 +91,6 @@ A curated list of resources, communities, vendors, and more for keyboard enthusi
 ---
 
 ## Vendors
+
+* [AllwinKey](https://allwinkey.com) — Custom keyboard & keycap OEM/ODM manufacturer. PBT doubleshot & dye-sub, CNC aluminum cases, low MOQ for boutique brands.
+* [Allwin Factory](https://allwinfactory.com) — Keyboard & keycap factory, 600+ products, ceramic keycaps, wholesale components.
